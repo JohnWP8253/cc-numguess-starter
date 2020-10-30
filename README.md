@@ -3,7 +3,7 @@ Starter code for Number Guessing game on Coder Cub YouTube tutorial
 
 ## Cloning this repository
 1. Obove the list of files, click the Code button.
-![Code button](https://github.com/JohnWP8253/cc-numguess-starter/blob/master/images/github-code-btn.png)
+\n![Code button](https://github.com/JohnWP8253/cc-numguess-starter/blob/master/images/github-code-btn.png)
 
 
 ## Instructions
