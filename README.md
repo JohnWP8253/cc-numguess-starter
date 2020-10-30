@@ -20,7 +20,7 @@ Starter code for Number Guessing game on Coder Cub YouTube tutorial
     * the score for the computer
     * the round number
 3. Create a function to generate your target number.
-4. Create a function to compare the guesses of the computer and the human. You will need three paramaters for: 
+4. Create a function to compare the guesses of the computer and the human. You will need three parameters for: 
     * `humanGuess`
     * `computerGuess`
     * `currentRandomNum`
@@ -40,6 +40,11 @@ Starter code for Number Guessing game on Coder Cub YouTube tutorial
     * the add button to make your guess
     * the subtract button to make your guess
     * the guess button to make your guess
-    * the next round buttong
-
+    * the next round button
+3. Create an event listener method for the guess button.
+4. Create an event listener method for the next round button.
+5. Create an event listener for the add button.
+6. Create an event listener for the subtract button.
+7. Create a function to handle the value changes.
+8. Finally, create an event listener for the human guess input
 
