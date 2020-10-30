@@ -1,6 +1,10 @@
 # cc-numguess-starter
 Starter code for Number Guessing game on Coder Cub YouTube tutorial
 
+## Cloning this repository
+1. Obove the list of files, click the Code button.
+
+
 ## Instructions
 1. Open the `game.js` file. 
 2. Create your global variables for the following.
